@@ -1,0 +1,19 @@
+{
+  "name": "npm-test-hugoe-2",
+  "version": "1.0.0",
+  "description": "Paquete de prueba para mostrar el procedimiento de creacion de un paquete NPM en el grupo 3, del diplomado de IoT de edu.codigoiot.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugoescalpelo/npm-test-hugoe-2.git"
+  },
+  "author": "Hugo Escalpelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugoescalpelo/npm-test-hugoe-2/issues"
+  },
+  "homepage": "https://github.com/hugoescalpelo/npm-test-hugoe-2#readme"
+}
